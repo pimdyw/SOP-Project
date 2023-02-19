@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt:wght@300&family=Sarabun:wght@300&display=swap');
+
+.containerMymenu{
+    text-align: left;
+    background-color: #F8F1E1;
+    font-family: 'Prompt', sans-serif;
+    /* font-family: 'Sarabun', sans-serif; */
+    /* height: 80vw; */
+    padding: 2vw;
+}
+
+.secound-container{
+    background-color: #F6E6C4;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    /* align-items: center; */
+    /* width: "100%"; */
+    border: 2px solid #705142;
+    border-radius: 3vw;
+    padding: 2vw;
+}
+.input{
+  display: flex;
+  flex-direction: column;
+  width: 40vw;
+  color: #705142;
+  /* margin-right: 50vw; */
+}
+.sub-input{
+  width: 40vw;
+  height: 3.5vw;
+  border: 2px solid #705142;
+  border-radius: 2vw;
+}
+.formgroup{
+  margin-bottom: 3vw;
+}
+.button{
+  width: 40vw;
+  display: flex;
+  justify-content: space-between;
+}
+.manage-but{
+  margin-right: 3vw;
+}
+.back-but{
+  width: 20vw;
+  height: 5vh;
+  border: 2px solid #705142;
+  border-radius: 2vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ada4a0;
+}
+.loading{
+  width: 40vw;
+  /* height: 50vw; */
+  background-color: #FFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border-radius: 2vw;
+}
+.loadingAdmin{
+  width: 30vw;
+  height: 30vw;
+  /* height: 50vw; */
+  background-color: #FFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border-radius: 2vw;
+}

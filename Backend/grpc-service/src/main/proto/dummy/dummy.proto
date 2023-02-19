@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+package dummy;
+
+option java_package = "com.proto.greet";
+option java_multiple_files = true;
+
+message DummyMessage{
+  string txt = 1;
+}
+
+service DummyService{
+  rpc sayHi(DummyMessage) returns (DummyMessage){}
+}

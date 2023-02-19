@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt:wght@300&family=Sarabun:wght@300&display=swap');
+
+.box-total {
+    background-color: #F8F1E1;
+    font-family: 'Prompt', sans-serif;
+    /* font-family: 'Sarabun', sans-serif; */
+    /* padding: 2vw; */
+    margin-top: 3vw;
+    
+}
+
+.sub-box {
+    background-color: #F6E6C4;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    /* align-items: center; */
+    width: 50%;
+    height: 100%;
+    border: 2px solid #705142;
+    border-radius: 3vw;
+    padding-right: 4vw;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.box-summary {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.summary {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.row-data {
+    padding-left: 15vw;
+    padding-right: 15vw;
+    margin-top: 2vw;
+}
+
+.logout {
+    width: 13vw;
+    height: 5vh;
+    border-radius: 5vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #f0452b;
+    margin-bottom: 2vw;
+}
+
+.box-button {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.back {
+    width: 13vw;
+    height: 5vh;
+    border-radius: 5vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #7ad441;
+    margin-top: 3vw;
+}

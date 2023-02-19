@@ -1,0 +1,100 @@
+body {
+    height: "100%";
+    width: "100%";
+    background-color: #F8F0E0;
+    overflow-y: overlay;
+}
+
+.containerConfirm {
+    width: 100%;
+    margin: 2vw;
+}
+
+.headerConfirm {
+    text-align: left;
+    margin: 2vw;
+}
+
+.out-containerConfirm {
+    background-color: #edd5ad;
+    border: 3px solid #69443C;
+    border-radius: 2vw;
+}
+.BtnConfirm {
+    margin-left: 1000px;
+    padding: 0.5vw;
+}
+.btnBackConfirm {
+    padding: 1vw;
+    width: 10vw;
+    margin-left: 1vw;
+    margin-right: 1vw;
+    background-color: #917772;
+    border: 5px solid #69443C;
+    border-radius: 2vw;
+    font-size: 1.15vw;
+}
+.btnBuyConfirm {
+    padding: 1vw;
+    width: 10vw;
+    margin-right: 1vw;
+    background-color: #57f634;
+    border-radius: 2vw;
+    font-size: 1.15vw;
+    color: white;
+}
+.btnConfirm :hover{
+    border: 5px solid #69443C;
+}
+
+.btnConfirm :active{
+    border: 5px solid #69443C;
+    background-color: #B2918A;
+}
+.image-menuConfirm {
+    margin-top: 1vw;
+    width: 7vw;
+    height: 7vw;
+    background-color: white;
+    margin-left: 2vw;
+    border-radius: 2vw;
+    border: 2px solid rgb(85, 85, 85);
+}
+.foodConfirm {
+    background-color: #887370;
+    margin: 20;
+    border-radius: 2vw;
+    margin: 2.5vw;
+}
+.image-foodConfirm {
+    flex-direction: row;
+    display: flex;
+}
+.InputConfirm {
+    margin-left: 2vw;
+    display: inline-block;
+    padding: 0.6vw 1vw;
+}
+.labelnameConfirm {
+    color: #5c4845;
+    padding-right: 0.5vw;
+    margin-top: 0.7vw;
+}
+.inputConfirm {
+    width: 100%;
+    padding: 0.6vw 1vw;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+.sum{
+    color: #5c4845;
+    margin-left: 2.9vw;
+    background-color: #aea09e;
+    width: 13.5%;
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 10px;
+    text-align: center;
+}

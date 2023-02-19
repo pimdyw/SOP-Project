@@ -1,0 +1,27 @@
+_class,_id,food,name,other,payment,phone,price,status
+com.example.orderservice.pojo.Order,63a162fdd7b8417f212b6612,มาม่าผัดขี้เมา (มาม่า+หมู),บาส,-,prompt,0616645773,40,pay
+com.example.orderservice.pojo.Order,63a34465e512460dc102562d,มาม่าผัดขี้เมา (เส้นมาม่า+หมู),เจ้าบาส,-,cash,0616645773,40,pay
+com.example.orderservice.pojo.Order,63a34465e512460dc102562e,กะเพราหมู (ข้าว+ไก่),เจ้าบาส,เอาข้าวเยอะๆ,cash,0616645773,50,pay
+com.example.orderservice.pojo.Order,63a34465e512460dc102562f,ข้าวไข่ข้น (ข้าว+ไส้กรอก),เจ้าบาส,-,cash,0616645773,50,pay
+com.example.orderservice.pojo.Order,63a344ffe512460dc1025630,ข้าวหมูกระเทียม (ข้าว+หมู),ปะแป้ง,-,prompt,0852588548,38,success
+com.example.orderservice.pojo.Order,63a344ffe512460dc1025631,สปาเกตตี้ซอสมะเขือ (เส้นหมี่+ไส้กรอก),ปะแป้ง,-,prompt,0852588548,35,pay
+com.example.orderservice.pojo.Order,63a34d27e512460dc1025632,ข้าวหมูกระเทียม (ข้าว+หมู),พิมดี้,-,cash,123456789,38,processing
+com.example.orderservice.pojo.Order,63a34da4e512460dc1025633,ข้าวผัดหมู (ข้าว+หมู),บาสจ้า,-,cash,12345,35,wait
+com.example.orderservice.pojo.Order,63a34dc3e512460dc1025634,สปาเกตตี้ซอสมะเขือ (สปาเกตตี้+ไส้กรอก),โป้ว,-,cash,124,35,wait
+com.example.orderservice.pojo.Order,63a34dc8e512460dc1025635,สปาเกตตี้ซอสมะเขือ (สปาเกตตี้+ไส้กรอก),โป้ว,-,cash,124,35,wait
+com.example.orderservice.pojo.Order,63a34df7e512460dc1025637,สปาเกตตี้ซอสมะเขือ (สปาเกตตี้+ไส้กรอก),ฟหด,-,cash,ฟหด,35,pay
+com.example.orderservice.pojo.Order,63a34e21e512460dc1025638,มาม่าผัดขี้เมา (เส้นมาม่า+หมู),เจ้่โป้ะ,-,prompt,1524,40,wait
+com.example.orderservice.pojo.Order,63a42dc6c72b3d1236d6d23d,มาม่าผัดขี้เมา (เส้นมาม่า+หมู),ป๊ปบ,-,cash,0255456451,40,wait
+com.example.orderservice.pojo.Order,63a436c6c72b3d1236d6d23e,มาม่าผัดขี้เมา (วุ้นเส้น+หมู),pimmm,-,prompt,112233,40,pay
+com.example.orderservice.pojo.Order,63a439f0c72b3d1236d6d23f,ข้าวหมูกระเทียม (สปาเกตตี้+ไก่),Nutcha,เอากระเทียมเยอะๆ,prompt,9999999999,38,pay
+com.example.orderservice.pojo.Order,63a43f9fc72b3d1236d6d240,ข้าวผัดหมู (วุ้นเส้น+หมู),ณัชชา,ต้องการผักเยอะๆ,prompt,9999999999,35,pay
+com.example.orderservice.pojo.Order,63a441f2c72b3d1236d6d241,ข้าวผัดหมู (เส้นมาม่า+เนื้อ),ณัชชา,-,prompt,9999999999,40,pay
+com.example.orderservice.pojo.Order,63a45682c72b3d1236d6d242,ข้าวผัดหมู (ข้าว+หมู),ณัชชา,-,prompt,9999999999,35,pay
+com.example.orderservice.pojo.Order,63a45983c72b3d1236d6d243,ข้าวผัดหมู (ข้าว+หมู),ณัชชา,-,prompt,9999999999,35,pay
+com.example.orderservice.pojo.Order,63a45af9c72b3d1236d6d244,ข้าวผัดหมู (ข้าว+หมู),ณัชชา,-,prompt,9999999999,35,pay
+com.example.orderservice.pojo.Order,63a45db5c72b3d1236d6d245,ข้าวผัดหมู (ข้าว+หมู),ณัชชา,-,prompt,9999999999,35,pay
+com.example.orderservice.pojo.Order,63a45eb0c72b3d1236d6d246,ข้าวผัดหมู (ข้าว+หมู),Nutcha,-,prompt,9999999999,35,wait
+com.example.orderservice.pojo.Order,63a53c7ae3927e7c9d31397c,ข้าวผัดหมู (เส้นมาม่า+เนื้อ),Rosjana,-,prompt,0888887496,40,wait
+com.example.orderservice.pojo.Order,63a53c7ae3927e7c9d31397d,มาม่าผัดขี้เมา (เส้นมาม่า+เนื้อ),Rosjana,-,prompt,0888887496,45,wait
+com.example.orderservice.pojo.Order,63a542b8e3927e7c9d31397e,มาม่าผัดขี้เมา (เส้นมาม่า+หมู),เจ้าบราสสส,-,prompt,08164094041,40,pay
+com.example.orderservice.pojo.Order,63a54938e3927e7c9d313980,ข้าวผัดหมู (ข้าว+ไก่),เจ้าบราสสสสส222,ข้าวเยอะๆ,prompt,0545489451,35,pay

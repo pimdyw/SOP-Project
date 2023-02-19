@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt:wght@300&family=Sarabun:wght@300&display=swap');
+
+.first-container{
+    /* text-align: center; */
+    align-items: center;
+    background-color: #F8F1E1;
+    font-family: 'Prompt', sans-serif;
+    /* font-family: 'Sarabun', sans-serif; */
+    /* height: 80vw; */
+    padding: 2vw;
+}
+.secound-container{
+    background-color: #F6E6C4;
+    text-align: center;
+    display: block !important;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid #705142;
+    border-radius: 3vw;
+    padding: 3vw;
+}
+.choice {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    margin-top: 1vw;
+}
+.sub-choice {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: #ffffff;
+    margin-right: 3vw;
+    padding: 1vw;
+    border: 1px solid #705142;
+    border-radius: 2vw;
+}
+.button-adminPage {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1vw;
+}
+.buy-but{
+    width: 10vw;
+    height: 3vw;
+    border: 2px solid #705142;
+    border-radius: 2vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #ada4a0;
+}
+.add-on{
+    width: 30vw;
+    height: 3vw;
+    border: 1px solid #705142;
+    border-radius: 2vw;
+    margin-left: 1vw;
+}

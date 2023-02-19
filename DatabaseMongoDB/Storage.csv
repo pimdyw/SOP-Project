@@ -1,0 +1,16 @@
+_class,_id,ingredient,main,quantity
+com.example.storageservice.pojo.Storage,63a03c64f6e9568083aa6eae,ข้าว,1,20
+com.example.storageservice.pojo.Storage,63a03c64f6e9568083aa6eaf,วุ้นเส้น,1,18
+com.example.storageservice.pojo.Storage,63a03c64f6e9568083aa6eb0,สปาเกตตี้,1,21
+com.example.storageservice.pojo.Storage,63a03c64f6e9568083aa6eb1,เส้นหมี่,1,19
+com.example.storageservice.pojo.Storage,63a03c64f6e9568083aa6eb2,มักกะโรนี,1,21
+com.example.storageservice.pojo.Storage,63a03c64f6e9568083aa6eb3,เส้นมาม่า,1,17
+com.example.storageservice.pojo.Storage,63a03cd1f6e9568083aa6eb5,หมู,0,10
+com.example.storageservice.pojo.Storage,63a03cd1f6e9568083aa6eb6,หมึก,0,20
+com.example.storageservice.pojo.Storage,63a03cd1f6e9568083aa6eb7,กุ้ง,0,27
+com.example.storageservice.pojo.Storage,63a03cd1f6e9568083aa6eb8,ไก่,0,15
+com.example.storageservice.pojo.Storage,63a03cd1f6e9568083aa6eb9,ปลา,0,20
+com.example.storageservice.pojo.Storage,63a03cd1f6e9568083aa6eba,เบคอน,0,20
+com.example.storageservice.pojo.Storage,63a03cd1f6e9568083aa6ebb,หมูกรอบ,0,20
+com.example.storageservice.pojo.Storage,63a03cd1f6e9568083aa6ebc,ไส้กรอก,0,13
+com.example.storageservice.pojo.Storage,63a043b4f6e9568083aa6ebe,เนื้อ,0,18

@@ -1,0 +1,21 @@
+_class,_id,image,ingredient,main,name,price
+com.example.foodservice.pojo.FoodEntity,639f2104d0f9c7e4d1dfe7b0,https://s359.kapook.com/pagebuilder/3dfc9eae-e6b7-484a-9cbc-280067076ce4.jpg,หมู,ข้าว,ข้าวผัดหมู,35
+com.example.foodservice.pojo.Food,639f218ed0f9c7e4d1dfe7b2,https://chefoldschool.com/wp-content/uploads/2020/08/p86.jpg,หมู,ข้าว,ข้าวหมูกระเทียม,38
+,639f2219d0f9c7e4d1dfe7b4,https://www.cookingth.com/wp-content/uploads/2015/03/2.jpg,หมู,เส้นมาม่า,มาม่าผัดขี้เมา,40
+,639f227ed0f9c7e4d1dfe7b6,https://img-global.cpcdn.com/recipes/2efa68998496d648/680x482cq70/%E0%B8%A3%E0%B8%9B-%E0%B8%AB%E0%B8%A5%E0%B8%81-%E0%B8%82%E0%B8%AD%E0%B8%87-%E0%B8%AA%E0%B8%95%E0%B8%A3-%E0%B8%AA%E0%B8%9B%E0%B8%B2%E0%B9%80%E0%B8%81%E0%B8%95%E0%B8%95%E0%B8%8B%E0%B8%AD%E0%B8%AA%E0%B8%A1%E0%B8%B0%E0%B9%80%E0%B8%82%E0%B8%AD%E0%B9%80%E0%B8%97%E0%B8%A8.jpg,ไส้กรอก,สปาเกตตี้,สปาเกตตี้ซอสมะเขือ,35
+,639f2483d0f9c7e4d1dfe7bc,https://i.ytimg.com/vi/kuOvbdLqco8/maxresdefault.jpg,หมู,วุ้นเส้น,สุกี้ (แห้งหรือน้ำ),40
+,639f2c41d0f9c7e4d1dfe7be,https://img-global.cpcdn.com/recipes/03fd5e258131f310/640x640sq70/photo.webp,หมู,มักกะโรนี,มักกะโรนี,50
+,639f2c41d0f9c7e4d1dfe7bf,https://img-global.cpcdn.com/recipes/329c9e901543a1c3/640x640sq70/photo.webp,หมู,ข้าว,ผัดพริกแกงหมู,50
+,639f2c41d0f9c7e4d1dfe7c0,https://img-global.cpcdn.com/recipes/9de64025073f4a4f/640x640sq70/photo.webp,หมู,ข้าว,คั่วกลิ้งหมู,50
+,639f2c41d0f9c7e4d1dfe7c1,https://www.easycookingmenu.com/media/k2/items/cache/da89514e409822180ac867ab6712269d_XL.jpg,หมู,ข้าว,กะเพราหมู,50
+,639f2c41d0f9c7e4d1dfe7c2,https://img.wongnai.com/p/1968x0/2022/05/05/2ac99b713590453b8dd484e80507f891.jpg,หมู,ข้าว,ผัดผงกะหรี่,50
+,639f2c41d0f9c7e4d1dfe7c3,https://www.matichonweekly.com/wp-content/uploads/2022/01/%E0%B8%AD%E0%B8%B2%E0%B8%97%E0%B8%B4%E0%B8%95%E0%B8%A2%E0%B9%8C%E0%B8%A5%E0%B8%B0%E0%B8%A1%E0%B8%B7%E0%B9%89%E0%B8%AD-2163.jpg,หมู,ข้าว,ผัดน้ำมันหอย,50
+,639f2c41d0f9c7e4d1dfe7c4,https://img.wongnai.com/p/1968x0/2018/05/28/ef9d9e615dd74ab7ac835a8c12011c81.jpg,หมู,ข้าว,ผัดพริดหยวก,50
+,639f2c41d0f9c7e4d1dfe7c5,https://img.wongnai.com/p/1968x0/2018/05/13/efaba4d24a2d48e6958f6cba42c48766.jpg,หมู,ข้าว,ผัดผัก,50
+com.example.foodservice.pojo.Food,639f33cf849faf757c47b9c9,https://img.wongnai.com/p/1968x0/2017/09/26/f4a2b35abd654da6897ac35a7828866e.jpg,ไส้กรอก,ข้าว,ข้าวไข่ข้น,50
+,639f33fbd0f9c7e4d1dfe7d4,https://pbs.twimg.com/media/DSqjuzsVMAEcjWD?format=jpg&name=900x900,หมู,ข้าว,ผัดพริกเกลือ,50
+,639f33fbd0f9c7e4d1dfe7d5,https://img-global.cpcdn.com/recipes/d9a323ed1ff7c25a/640x640sq70/photo.webp,หมู,เส้นหมี่,ราดหน้า,50
+com.example.foodservice.pojo.Food,639f33fbd0f9c7e4d1dfe7d6,https://www.bloggang.com/data/t/tuktausa/picture/1456549327.jpg,หมู,เส้นใหญ่,ผัดซีอิ๊ว,50
+com.example.foodservice.pojo.FoodEntity,63a345b099e817206e762bdd,https://drive.google.com/uc?export=view&id=1JMocoGKLMOERM-DzwR8TzuagdfI-dfIy,หมู,ข้าว,ข้าวหน้าหมู,75
+com.example.foodservice.pojo.FoodEntity,63a5385777845072dd605de7,https://drive.google.com/uc?export=view&id=1KTH73A9BE2ByI6iekuYShAVLC_eTS6jw,หมู,วุ้นเส้น,สุกี้หมู,45
+com.example.foodservice.pojo.FoodEntity,63a5498f52245e029babf2eb,https://drive.google.com/uc?export=view&id=1TxbS0k6QDIcWl16uFoAAC9P1zsXKN3kN,หมู,ข้าว,โจ๊กหมู,30

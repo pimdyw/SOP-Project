@@ -1,0 +1,174 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt:wght@300&family=Sarabun:wght@300&display=swap');
+
+body{
+    font-family: 'Prompt', sans-serif;
+}
+.div1{
+    margin-top: 1vw;
+    font-family: 'Prompt', sans-serif;
+
+}
+.buttonOut{
+    width: 10vw;
+    border-radius: 2vw;
+    background-color: #F0452B;
+    border: 0.25vw solid #F0452B;
+    height: 2.5vw;
+}
+.buttonOut:hover {
+    background-color: #be2c16;
+    border: 0.25vw solid #be2c16;
+}
+.div2{
+    margin-top: 2vw;
+    font-family: 'Prompt', sans-serif;
+
+}
+.buttonAll{
+    width: 10vw;
+    border-radius: 2vw;
+    background-color: #DDB6AD;
+    border: 0.25vw solid #DDB6AD;
+    height: 2.5vw;
+    margin: 0.25vw;
+    cursor: pointer;
+}
+.btn-Click{
+  background-color: #917772;
+  border: 0.25vw solid #69443C;
+  width: 10vw;
+  border-radius: 2vw;
+  height: 2.5vw;
+  margin: 0.25vw;
+  cursor: pointer;
+}
+.buttonAll:hover{
+    background-color: #B2918A;
+    border: 0.25vw solid #69443C;
+}
+.divContent {
+    background-color: #F7E6C4;
+    border-radius: 2vw;
+    width: 80%;
+    padding: 2vw;
+}
+form {
+    width: 300px;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 50px;
+  }
+.value-button {
+    display: inline-block;
+    border: 1px solid #ddd;
+    margin: 0px;
+    width: 40px;
+    height: 20px;
+    text-align: center;
+    vertical-align: middle;
+    padding: 11px 0;
+    background: #eee;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+  
+  .value-button:hover {
+    cursor: pointer;
+    background-color: rgb(184, 181, 181);
+  }
+  
+#decrease {
+    margin-right: -4px;
+    border-radius: 8px 0 0 8px;
+  }
+  
+ #increase {
+    margin-left: 0;
+    border-radius: 0 8px 8px 0;
+  }
+  
+ #input-wrap {
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  #number {
+    text-align: center;
+    border: none;
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    margin: 0px;
+    width: 40px;
+    height: 40px;
+  }
+  
+  input[type=number]::-webkit-inner-spin-button,
+  input[type=number]::-webkit-outer-spin-button {
+      -webkit-appearance: none;
+      margin: 0;
+  }
+  .labelMenu{
+    margin-left: 2.6vw;
+    font-size: 1vw;
+    font-family: 'Prompt', sans-serif;
+  }
+  .fromMenu{
+    margin-left: 0.5vw;
+  }
+  .div3{
+    font-family: 'Prompt', sans-serif;
+
+  }
+  .buttonSubmit{
+    width: 10vw;
+    border-radius: 2vw;
+    background-color: #4babeb;
+    border: 0.25vw solid #4babeb;
+    height: 2.5vw;
+}
+.buttonSubmit:hover {
+    background-color: #347fb2;
+    border: 0.25vw solid #347fb2;
+}
+.buttonBack{
+    width: 10vw;
+    border-radius: 2vw;
+    background-color: #f3f3f3;
+    border: 0.25vw solid #f3f3f3;
+    height: 2.5vw;
+}
+.buttonBack:hover {
+    background-color: #7d7f80;
+    border: 0.25vw solid #7d7f80;
+}
+.buttonMain{
+    width: 10vw;
+    border-radius: 2vw;
+    background-color: #04b4a8;
+    border: 0.25vw solid #04b4a8;
+    height: 2.5vw;
+}
+.buttonMain:hover {
+    background-color: #07716a;
+    border: 0.25vw solid #07716a;
+}
+.tableBig{
+  background-color: #F7E6C4;
+  
+  /* border: 0.1vw solid #2c0b06; */
+
+}
+.buttonWait{
+  width: 10vw;
+  border-radius: 2vw;
+  background-color: #DDB6AD;
+  border: 0.25vw solid #DDB6AD;
+  height: 2.5vw;
+  margin: 0.25vw;
+ 
+}
+

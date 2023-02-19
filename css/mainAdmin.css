@@ -1,0 +1,272 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt:wght@300&family=Sarabun:wght@300&display=swap');
+
+body{
+    font-family: 'Prompt', sans-serif;
+}
+.div1{
+    margin-top: 1vw;
+    font-family: 'Prompt', sans-serif;
+
+}
+.buttonOut{
+    width: 10vw;
+    border-radius: 2vw;
+    background-color: #F0452B;
+    border: 0.25vw solid #F0452B;
+    height: 2.5vw;
+}
+.buttonOut:hover {
+    background-color: #be2c16;
+    border: 0.25vw solid #be2c16;
+}
+.div2{
+    margin-top: 2vw;
+    font-family: 'Prompt', sans-serif;
+
+}
+.buttonAll{
+    width: 10vw;
+    border-radius: 2vw;
+    background-color: #DDB6AD;
+    border: 0.25vw solid #DDB6AD;
+    height: 2.5vw;
+    margin: 0.25vw;
+}
+.buttonAll:hover{
+    background-color: #B2918A;
+    border: 0.25vw solid #2c0b06;
+}
+.divContent {
+    background-color: #F7E6C4;
+    border-radius: 2vw;
+    width: 80%;
+    padding: 2vw;
+}
+form {
+    width: 300px;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 50px;
+  }
+.value-button {
+    display: inline-block;
+    border: 1px solid #ddd;
+    margin: 0px;
+    width: 40px;
+    height: 20px;
+    text-align: center;
+    vertical-align: middle;
+    padding: 11px 0;
+    background: #eee;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+  
+  .value-button:hover {
+    cursor: pointer;
+    background-color: rgb(184, 181, 181);
+  }
+  
+#decrease {
+    margin-right: -4px;
+    border-radius: 8px 0 0 8px;
+  }
+  
+ #increase {
+    margin-left: 0;
+    border-radius: 0 8px 8px 0;
+  }
+  
+ #input-wrap {
+    margin: 0px;
+    padding: 0px;
+  }
+  
+ .valueIn {
+    text-align: center;
+    border: none;
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    margin: 0px;
+    width: 40px;
+    height: 40px;
+  }
+  
+  input[type=number]::-webkit-inner-spin-button,
+  input[type=number]::-webkit-outer-spin-button {
+      -webkit-appearance: none;
+      margin: 0;
+  }
+  .labelMenu{
+    margin-left: 2.6vw;
+    font-size: 1vw;
+    font-family: 'Prompt', sans-serif;
+  }
+  .fromMenu{
+    margin-left: 0.5vw;
+  }
+  .div3{
+    font-family: 'Prompt', sans-serif;
+
+  }
+  .buttonSubmit{
+    width: 10vw;
+    border-radius: 2vw;
+    background-color: #4babeb;
+    border: 0.25vw solid #4babeb;
+    height: 2.5vw;
+    font-family: 'Prompt', sans-serif;
+}
+.buttonSubmit:hover {
+    background-color: #347fb2;
+    border: 0.25vw solid #347fb2;
+    font-family: 'Prompt', sans-serif;
+}
+.buttonBack{
+    width: 10vw;
+    border-radius: 2vw;
+    background-color: #f3f3f3;
+    border: 0.25vw solid #f3f3f3;
+    height: 2.5vw;
+    font-family: 'Prompt', sans-serif;
+}
+.buttonBack:hover {
+    background-color: #7d7f80;
+    border: 0.25vw solid #7d7f80;
+    font-family: 'Prompt', sans-serif;
+}
+.buttonMain{
+    width: 10vw;
+    border-radius: 2vw;
+    background-color: #04b4a8;
+    border: 0.25vw solid #04b4a8;
+    font-family: 'Prompt', sans-serif;
+    height: 2.5vw;
+}
+.buttonMain:hover {
+    background-color: #07716a;
+    border: 0.25vw solid #07716a;
+    font-family: 'Prompt', sans-serif;
+}
+.btnFont{
+  font-family: 'Prompt', sans-serif;
+  background-color: '#F7E6C4';
+  color: black;
+}
+.btnFont{
+  font-family: 'Prompt', sans-serif;
+  color: black;
+}
+.buttonBackAdmin{
+  width: 10vw;
+  border-radius: 2vw;
+  background-color: #c1c1c1;
+  border: 0.25vw solid #c1c1c1;
+  height: 2.5vw;
+  font-family: 'Prompt', sans-serif;
+}
+.buttonBackAdmin:hover {
+  background-color: #7d7f80;
+  border: 0.25vw solid #7d7f80;
+  font-family: 'Prompt', sans-serif;
+}
+.buttonFood{
+  width: 10vw;
+  border-radius: 2vw;
+  background-color: #DDB6AD;
+  border: 0.25vw solid #DDB6AD;
+  height: 2.5vw;
+  margin: 0.25vw;
+}
+.buttonFood:hover{
+  background-color: #b09793;
+  border: 0.25vw solid #b09793;
+}
+.buttonEdit{
+  width: 10vw;
+  border-radius: 2vw;
+  background-color: #fbd668;
+  border: 0.25vw solid #fbd668;
+  height: 2.5vw;
+  font-family: 'Prompt', sans-serif;
+}
+.buttonEdit:hover {
+  background-color: #f0c74a;
+  border: 0.25vw solid #f0c74a;
+  font-family: 'Prompt', sans-serif;
+}
+.buttonDelete{
+  width: 10vw;
+  border-radius: 2vw;
+  background-color: #de4242;
+  border: 0.25vw solid #de4242;
+  height: 2.5vw;
+  font-family: 'Prompt', sans-serif;
+}
+.buttonDelete:hover {
+  background-color: #9f2f2f;
+  border: 0.25vw solid #9f2f2f;
+  font-family: 'Prompt', sans-serif;
+}
+.Line{
+  width: 100%;
+  background-color: #010101;
+  height: 0.1vw;
+  margin-top: 0.2vw;
+  margin-bottom: 0.5vw;
+}
+.button3 {border-radius: 50%;}
+.buttonPlus {
+  background-color: #04AA6D; /* Green */
+  border: none;
+  color: white;
+  width: 3vw;
+  height: 3vw;
+  text-align: center;
+  margin-top: 2.2vw;
+  margin-left: 0.5vw;
+  cursor: pointer;
+}
+.how-to-pay{
+  display: flex;
+  flex-direction: row;
+}
+.money{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffffff;
+  /* margin-right: 3vw;
+  padding-left: 1vw; */
+  margin: 0.5vw;
+  padding: 1vw;
+  border: 1px solid #705142;
+  border-radius: 1vw;
+}
+.InputConfirm{
+  margin: 1vw;
+
+}
+.under-datalist{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: flex-end;
+  background-color: white;
+  margin-right: 15vw;
+  margin-left: 15vw;
+  margin-top: 2vw;
+  padding: 2vw;
+  border-radius: 2vw;
+
+}
+.buttonGroup{
+  padding: 1vw;
+  margin: 1vw;
+
+}

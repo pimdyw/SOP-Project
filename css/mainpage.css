@@ -1,0 +1,182 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt:wght@300&display=swap'); 
+@import url('https://fonts.googleapis.com/css2?family=Prompt:wght@700&display=swap');
+body {
+    height: "100%";
+    width: "100%";
+    background-color: #F8F0E0;
+    overflow-y: overlay;
+    font-family: 'Prompt', sans-serif;
+}
+
+.container-main{
+    width: 100%;
+    margin: 2vw;
+}
+
+.header-homepage{
+    text-align: center;
+    margin: 2vw;
+}
+
+.food-homepage{
+    margin: 2vw;
+    margin-top: 6vw;
+    background-color: rgb(71, 52, 52);
+    position: relative;
+}
+
+.food-menu-homepage{
+    background-color: #B2918A;
+    border-radius: 15%;
+    margin: 2vw;
+    height: 22.5vw;
+    width: 18.5vw;
+    position: relative;
+    float: left;
+    text-align: center;
+}
+
+#foodHome{
+    background-color: #F8F0E0;
+    margin: 2vw;
+    height: 22.5vw;
+    width: 18.5vw;
+    position: relative;
+    float: left;
+    text-align: center;
+   
+}
+
+#foodHome:hover{
+    /* border: 1px solid #69443C; */
+    background-color: #F7E6C4;
+    /* background-color: #d4bfbb; */
+    margin: 2vw;
+    height: 22.5vw;
+    width: 18.5vw;
+    position: relative;
+    float: left;
+    text-align: center;
+}
+.pop{
+    /* font-family: 'Prompt', sans-serif; */
+   font-weight: 700;
+}
+
+
+.Btn-container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.btn{
+    padding: 0.5vw;
+    width: 10vw;
+    margin-left: 1vw;
+    margin-right: 1vw;
+    background-color: #DDB6AD;
+    border: 5px solid #DDB6AD;
+    border-radius: 2vw;
+    font-size: 1.15vw;
+    font-family: 'Prompt', sans-serif;
+    cursor: pointer;
+}
+.btnClick{
+    padding: 0.5vw;
+    width: 10vw;
+    margin-left: 1vw;
+    margin-right: 1vw;
+    background-color: #917772;
+    border: 5px solid #69443C;
+    border-radius: 2vw;
+    font-size: 1.15vw;
+    cursor: pointer;
+    font-family: 'Prompt', sans-serif;
+}
+.btnAdd{
+    padding: 0.5vw;
+    width: 10vw;
+    margin-left: 1vw;
+    margin-right: 1vw;
+    background-color: #DDB6AD;
+    border: 5px solid #DDB6AD;
+    border-radius: 2vw;
+    font-size: 1.15vw;
+    cursor: pointer;
+    float: right;
+    font-family: 'Prompt', sans-serif;
+}
+.btnDetail{
+    padding: 0.75vw;
+    width: 8vw;
+    margin-left: 1vw;
+    margin-right: 1vw;
+    background-color: #f0cc62;
+    border: 1px solid #F7E6C4;
+    border-radius: 2vw;
+    font-size: 1vw;
+    cursor: pointer;
+    font-family: 'Prompt', sans-serif;
+    margin-bottom: 3vw;
+}
+.btn:hover{
+    border: 5px solid #69443C;
+    font-family: 'Prompt', sans-serif;
+}
+
+.btn:active{
+    border: 5px solid #69443C;
+    background-color: #B2918A;
+    font-family: 'Prompt', sans-serif;
+}
+.image-menu-homepage{
+    margin-top: 1.5vw;
+    width: 12vw;
+    height: 10vw;
+    background-color: white;
+}
+
+.btnAddCart{
+    padding: 1.5vw;
+    width: 15vw;
+    background-color: #ECB819;
+    border: 5px solid #ECB819;
+    color: white;
+    border-radius: 2vw;
+    cursor: pointer;
+    font-family: 'Prompt', sans-serif;
+}
+
+.btnAddCart:hover{
+    border: 5px solid #ECB819;
+    background-color: #f4c742;
+    font-family: 'Prompt', sans-serif;
+}
+.btnRemove{
+    padding: 1.5vw;
+    margin-left: 3vw;
+    width: 10vw;
+    background-color: #F36155;
+    border: 5px solid #F36155;
+    color: white;
+    border-radius: 2vw;
+    cursor: pointer;
+    font-family: 'Prompt', sans-serif;
+}
+
+.btnRemove:hover{
+    border: 5px solid #F36155;
+    background-color: #ee796e;
+    font-family: 'Prompt', sans-serif;
+}
+.food-fav-homepage{
+    background-color: #F7E6C4;
+    border-radius: 2vw;
+    margin: 2vw;
+    padding: 2vw;
+    width: 90%;
+    position: relative;
+    float: left;
+    display: flex;
+    justify-content: flex-end;
+}
